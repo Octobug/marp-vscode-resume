@@ -21,8 +21,6 @@ Online demo with [the famous actor Tony Leung Chiu-wai's public profile](https:/
 
 - [octobug.github.io/marp-vscode-resume](https://octobug.github.io/marp-vscode-resume)
 
-![Demo](assets/zh-Hans.jpg)
-
 ## Dependencies
 
 - [VS Code](https://code.visualstudio.com/)

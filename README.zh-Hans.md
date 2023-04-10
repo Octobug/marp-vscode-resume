@@ -21,8 +21,6 @@
 
 - [octobug.github.io/marp-vscode-resume](https://octobug.github.io/marp-vscode-resume)
 
-![效果展示](assets/zh-Hans.jpg)
-
 ## 依赖
 
 - [VS Code](https://code.visualstudio.com/)
