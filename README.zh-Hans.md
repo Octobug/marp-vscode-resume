@@ -10,7 +10,7 @@
 
 ## 效果
 
-使用[著名演员梁朝伟先生的公开资料](https://zh.wikipedia.org/wiki/%E6%A2%81%E6%9C%9D%E5%81%89)制作的在线示例：[octobug.github.io/marp-vscode-resume](https://octobug.github.io/marp-vscode-resume/)
+使用[著名演员梁朝伟先生的公开资料](https://zh.wikipedia.org/wiki/%E6%A2%81%E6%9C%9D%E5%81%89)制作的在线示例：[octobug.github.io/marp-vscode-resume](https://octobug.github.io/marp-vscode-resume)
 
 ![效果展示](assets/zh-Hans.jpg)
 
