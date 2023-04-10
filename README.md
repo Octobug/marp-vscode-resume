@@ -1,6 +1,6 @@
 # marp-vscode-resume
 
-English | [`简体中文`](README.zh-Hans.md)
+`English` | [`简体中文`](README.zh-Hans.md)
 
 - [marp-vscode-resume](#marp-vscode-resume)
   - [Demo](#demo)
