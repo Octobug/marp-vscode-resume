@@ -49,7 +49,7 @@ Online demo with [the famous actor Tony Leung Chiu-wai's public profile](https:/
     - Keyboard shortcuts: `command/ctrl + shift + p`
     - Then select: `Marp: Export Slide Deck...`
 
-    The best part about marp-vscode is that it can really export a wysiwyg file within these extention formats: [HTML, PDF, PPTX, PNG, JPEG](https://github.com/marp-team/marp-vscode#export-slide-deck-to-html-pdf-pptx-and-image-%EF%B8%8F)
+    The best part of marp-vscode is that it can really export a wysiwyg file within these extention formats: [HTML, PDF, PPTX, PNG, JPEG](https://github.com/marp-team/marp-vscode#export-slide-deck-to-html-pdf-pptx-and-image-%EF%B8%8F)
 
 ### Customizing CSS
 
