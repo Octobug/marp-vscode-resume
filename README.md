@@ -17,7 +17,9 @@ This template is intentionally made old fashioned.
 
 ## Demo
 
-Online demo with [the famous actor Tony Leung Chiu-wai's public profile](https://en.wikipedia.org/wiki/Tony_Leung_Chiu-wai): [octobug.github.io/marp-vscode-resume](https://octobug.github.io/marp-vscode-resume)
+Online demo with [the famous actor Tony Leung Chiu-wai's public profile](https://en.wikipedia.org/wiki/Tony_Leung_Chiu-wai):
+
+- [octobug.github.io/marp-vscode-resume](https://octobug.github.io/marp-vscode-resume)
 
 ![Demo](assets/zh-Hans.jpg)
 
