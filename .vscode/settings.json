@@ -1,0 +1,6 @@
+{
+    "editor.wordWrapColumn": 1000,
+    "markdown.marp.themes": [
+        "./theme/resume.css",
+    ]
+}

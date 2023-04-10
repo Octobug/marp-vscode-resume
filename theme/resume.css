@@ -1,0 +1,81 @@
+/**
+ * A resume theme based on Marp's Gaia theme.
+ *
+ * @theme resume
+ * @author Octobug
+ *
+ * @size A4D72 595px 842px
+ * @size A4D96 794px 1123px
+ * @size A4D150 1240px 1754px
+ * @size A4D300 2480px 3508px
+ */
+
+@import 'gaia';
+
+/* layout */
+
+section {
+    padding: 30px;
+    background-color: #fdfeff;
+}
+
+h1,
+h2,
+h3,
+p {
+    text-align: left;
+}
+
+h2 {
+    font-size: 35px;
+    border-bottom: 2px dashed;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 0.8em;
+    z-index: 100;
+}
+
+h3+p {
+    text-align: right;
+    margin-top: -1.5em;
+}
+
+a {
+    color: inherit;
+}
+
+/* profile */
+
+table {
+    margin: 0;
+    text-align: left;
+}
+
+table td {
+    padding: 0em 0.6em;
+    font-size: 28px;
+    letter-spacing: 3px;
+}
+
+table img[alt="photo"] {
+    height: 6em;
+    margin: 0.5em -0.9em 0.2em 0;
+}
+
+/* career, education, and other experiences */
+
+ul,
+p {
+    margin: 10px;
+}
+
+p,
+li {
+    font-size: 22px;
+}
+
+blockquote {
+    margin: 0.6em 0 0.1em;
+}

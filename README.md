@@ -1,2 +1,3 @@
 # marp-vscode-resume
-A resume template on top of marp-vscode
+
+A resume template on top of marp-vscode.
