@@ -2,13 +2,20 @@
 
 [`English`](README.md) | `简体中文`
 
+- [marp-vscode-resume](#marp-vscode-resume)
+  - [效果展示](#效果展示)
+  - [依赖](#依赖)
+  - [如何使用](#如何使用)
+    - [自定义 CSS](#自定义-css)
+  - [许可](#许可)
+
 使用 marp-vscode 制作的 Markdown 简历模板。
 
 这个模板被刻意做成古早风格。
 
 > It's a feature, not a bug.
 
-## 效果
+## 效果展示
 
 使用[著名演员梁朝伟先生的公开资料](https://zh.wikipedia.org/wiki/%E6%A2%81%E6%9C%9D%E5%81%89)制作的在线示例：[octobug.github.io/marp-vscode-resume](https://octobug.github.io/marp-vscode-resume)
 
@@ -21,7 +28,7 @@
   - [marp-vscode](https://github.com/marp-team/marp-vscode)
   - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint.git) (可选)
 
-## 使用
+## 如何使用
 
 ![编辑环境](assets/editting.jpg)
 
