@@ -30,7 +30,7 @@ Online demo with [the famous actor Tony Leung Chiu-wai's public profile](https:/
 
 ## Usage
 
-![Editting](assets/editting.jpg)
+![Editting](assets/editting.en.jpg)
 
 1. Clone this repo:
 
