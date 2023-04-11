@@ -57,6 +57,7 @@ table td {
     padding: 0em 0.6em;
     font-size: 28px;
     letter-spacing: 3px;
+    line-height: 1.5em;
 }
 
 table img[alt="photo"] {

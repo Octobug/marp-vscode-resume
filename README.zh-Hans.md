@@ -30,7 +30,7 @@
 
 ## 如何使用
 
-![编辑环境](assets/editting.jpg)
+![编辑环境](assets/editting.zh-Hans.jpg)
 
 1. 克隆本仓库：
 

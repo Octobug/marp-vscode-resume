@@ -44,7 +44,7 @@ Online demo with [the famous actor Tony Leung Chiu-wai's public profile](https:/
     code marp-vscode-resume
     ```
 
-3. Edit this template using markdown syntax: [`templates/zh-Hans.md`](templates/zh-Hans.md)
+3. Edit this template using markdown syntax: [`templates/en.md`](templates/en.md)
 4. Export file in desired extension using marp-vscode:
     - Keyboard shortcuts: `command/ctrl + shift + p`
     - Then select: `Marp: Export Slide Deck...`
