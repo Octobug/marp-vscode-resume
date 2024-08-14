@@ -1,0 +1,9 @@
+{
+  "README": {
+    "rules": "https://github.com/DavidAnson/markdownlint",
+    "cli": "https://github.com/DavidAnson/markdownlint-cli2",
+    "vscode": "https://github.com/DavidAnson/vscode-markdownlint"
+  },
+  "line-length": false,
+  "no-emphasis-as-heading": false
+}

@@ -1,0 +1,6 @@
+{
+    "editor.wordWrapColumn": 200,
+    "markdown.marp.themes": [
+        "./.marp/theme.css",
+    ]
+}
