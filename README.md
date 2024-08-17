@@ -1,7 +1,15 @@
 # marp-vscode-resume
 
-A markdown resume template on top of [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode).
+***Write your résumé in Markdown***.
 
-English | [简体中文](README.zh-Hans.md)
+`English` | [简体中文](README.zh.md)
 
 - [marp-vscode-resume](#marp-vscode-resume)
+  - [Dependencies](#dependencies)
+
+## Dependencies
+
+- [VS Code](https://code.visualstudio.com/)
+- VS Code Extensions
+  - [Marp for VS Code](https://github.com/marp-team/marp-vscode)
+  - [markdownlint](https://github.com/DavidAnson/vscode-markdownlint) (optional)
