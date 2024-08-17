@@ -6,6 +6,7 @@
 
 - [marp-vscode-resume](#marp-vscode-resume)
   - [Dependencies](#dependencies)
+  - [License](#license)
 
 ## Dependencies
 
@@ -13,3 +14,9 @@
 - VS Code Extensions
   - [Marp for VS Code](https://github.com/marp-team/marp-vscode)
   - [markdownlint](https://github.com/DavidAnson/vscode-markdownlint) (optional)
+
+## License
+
+[MIT License](./LICENSE)
+
+Copyright © 2023 Shaobiao Lin
