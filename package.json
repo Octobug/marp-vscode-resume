@@ -1,0 +1,36 @@
+{
+  "name": "marp-vscode-resume",
+  "version": "1.0.0",
+  "description": "For command-line usage.",
+  "scripts": {
+    "html": "marp --html",
+    "jpeg": "marp --images jpeg",
+    "png": "marp --images png",
+    "pdf": "marp --pdf",
+    "pptx": "marp --pptx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Octobug/marp-vscode-resume.git"
+  },
+  "keywords": [
+    "marp",
+    "resume",
+    "markdown",
+    "vscode"
+  ],
+  "author": "Octobug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Octobug/marp-vscode-resume/issues"
+  },
+  "homepage": "https://github.com/Octobug/marp-vscode-resume",
+  "marp": {
+    "inputDir": "./templates",
+    "output": "./resumes",
+    "themeSet": "./.marp"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
