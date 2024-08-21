@@ -1,6 +1,6 @@
 # marp-vscode-resume
 
-使用 Markdown 编写简历。
+*使用 Markdown 编写简历*。
 
 [English](README.md) | `简体中文`
 
@@ -12,6 +12,8 @@
   - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint.git)（可选）
 
 ## 如何使用
+
+> 💡 简历内容来自 ChatGPT。
 
 ![编辑环境](.assets/editting.zh.png)
 

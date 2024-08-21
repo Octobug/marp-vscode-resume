@@ -1,12 +1,8 @@
 # marp-vscode-resume
 
-***Write your résumé in Markdown***.
+*Write your résumé in Markdown*.
 
 `English` | [简体中文](README.zh.md)
-
-- [marp-vscode-resume](#marp-vscode-resume)
-  - [Dependencies](#dependencies)
-  - [License](#license)
 
 ## Dependencies
 
