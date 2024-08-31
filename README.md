@@ -59,8 +59,8 @@ This is a template modified based on the [Marp Gaia theme](https://github.com/ma
 
 #### Debugging CSS?
 
-- Export the HTML file
-- Use the browser's developer tools
+1. Export the HTML file
+2. Use the browser's developer tools
 
 ## License
 
