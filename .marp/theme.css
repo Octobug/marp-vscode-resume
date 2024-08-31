@@ -59,10 +59,10 @@ h4 {
     margin-top: 5px;
 }
 
-/* work dates */
+/* career periods */
 h3+p:has(em) {
     text-align: right;
-    margin-top: -48px;
+    margin-top: -45px;
     font-family: monospace;
     z-index: -1;
 }
