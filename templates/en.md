@@ -11,7 +11,7 @@ size: A4D150
 |                                     |                                          |
 | ----------------------------------- | ---------------------------------------- |
 | **Phone**: (123) 456-7890           | **Location**: Chaozhou, China            |
-| **Email**: <john.doe@example.com>   | **Linkedin**: [John Doe][linkedin]   |
+| **Email**: <john.doe@example.com>   | **Linkedin**: [John Doe][linkedin]       |
 | **Blog**: [blog.octobug.site][blog] | **GitHub**: [github.com/Octobug][github] |
 
 [blog]: <https://blog.octobug.site/>

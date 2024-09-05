@@ -8,11 +8,11 @@ size: A4D150
 
 *（前端开发工程师）*
 
-|                             |                                          |
-| --------------------------- | ---------------------------------------- |
-| **电话**：(123) 456-7890    | **邮箱**：<john.doe@example.com>         |
-| **微信**：WeDontChatAnymore | **博客**：[blog.octobug.site][blog]      |
-| **现居**：潮州              | **GitHub**: [github.com/Octobug][github] |
+|                              |                                          |
+| ---------------------------- | ---------------------------------------- |
+| **电话**：(123) 456-7890     | **邮箱**：<john.doe@example.com>         |
+| **微信**：WeDon'tChatAnymore | **博客**：[blog.octobug.site][blog]      |
+| **现居**：潮州               | **GitHub**: [github.com/Octobug][github] |
 
 [blog]: <https://blog.octobug.site/>
 [github]: <https://github.com/Octobug>
