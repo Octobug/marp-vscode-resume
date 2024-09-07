@@ -29,7 +29,7 @@
     code marp-vscode-resume
     ```
 
-3. **Edit using Markdown syntax**: Resume template [`templates/zh.md`](templates/zh.md)
+3. **Edit using Markdown syntax**: Resume template [`templates/en.md`](templates/en.md)
 4. **Export the file**: The best part of the Marp for VS Code extension is that the exported file is exactly the same as the preview, supporting formats like [HTML, PDF, PPTX, PNG, JPEG](https://github.com/marp-team/marp-vscode#export-slide-deck-to-html-pdf-pptx-and-image-%EF%B8%8F)
 
     - Shortcut: `command/ctrl + shift + p`
