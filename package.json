@@ -31,6 +31,6 @@
     "themeSet": "./.marp"
   },
   "devDependencies": {
-    "@marp-team/marp-cli": "^4.0.3"
+    "@marp-team/marp-cli": "^4.0.4"
   }
 }
