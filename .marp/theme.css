@@ -54,18 +54,18 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* career periods */
+h3+p:has(em) {
+    text-align: right;
+    margin-top: -46px;
+    font-family: monospace;
+    z-index: -1;
+}
+
 /* project */
 h4 {
     font-size: 20px;
     margin-top: 5px;
-}
-
-/* career periods */
-h3+p:has(em) {
-    text-align: right;
-    margin-top: -45px;
-    font-family: monospace;
-    z-index: -1;
 }
 
 a {
