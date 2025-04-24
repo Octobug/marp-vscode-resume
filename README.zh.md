@@ -20,13 +20,13 @@
 1. **克隆本仓库**
 
     ```sh
-    git clone git@github.com:Octobug/marp-vscode-resume.git
+    $ git clone git@github.com:Octobug/marp-vscode-resume.git
     ```
 
 2. **使用 VS Code 打开项目**
 
     ```sh
-    code marp-vscode-resume
+    $ code marp-vscode-resume
     ```
 
 3. **使用 Markdown 语法编辑**：简历模板 [`templates/zh.md`](templates/zh.md)
@@ -38,12 +38,12 @@
 ### 命令行工具（可选）
 
 ```sh
-nvm use
-npm install
+$ nvm use
+$ npm install
 
 # 格式：html|jpeg|png|pdf|pptx
-npm run pdf
-tree resumes 
+$ npm run pdf
+$ tree resumes 
 resumes
 ├── en.pdf
 └── zh.pdf

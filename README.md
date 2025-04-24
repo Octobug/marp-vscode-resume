@@ -20,17 +20,17 @@
 1. **Clone this repository**
 
     ```sh
-    git clone git@github.com:Octobug/marp-vscode-resume.git
+    $ git clone git@github.com:Octobug/marp-vscode-resume.git
     ```
 
 2. **Open the project in VS Code**
 
     ```sh
-    code marp-vscode-resume
+    $ code marp-vscode-resume
     ```
 
-3. **Edit using Markdown syntax**: Resume template [`templates/en.md`](templates/en.md)
-4. **Export the file**: The best part of the Marp for VS Code extension is that the exported file is exactly the same as the preview, supporting formats like [HTML, PDF, PPTX, PNG, JPEG](https://github.com/marp-team/marp-vscode#export-slide-deck-to-html-pdf-pptx-and-image-%EF%B8%8F)
+3. **Edit using Markdown syntax**: resume template [`templates/en.md`](templates/en.md)
+4. **Export the file**: the best part of **Marp for VS Code** extension is that the exported file is exactly the same as the preview, supporting formats like [HTML, PDF, PPTX, PNG, JPEG](https://github.com/marp-team/marp-vscode#export-slide-deck-to-html-pdf-pptx-and-image-%EF%B8%8F)
 
     - Shortcut: `command/ctrl + shift + p`
     - Select: `Marp: Export Slide Deck...`
@@ -38,12 +38,12 @@
 ### Command Line Tools (Optional)
 
 ```sh
-nvm use
-npm install
+$ nvm use
+$ npm install
 
 # Formats: html|jpeg|png|pdf|pptx
-npm run pdf
-tree resumes 
+$ npm run pdf
+$ tree resumes 
 resumes
 ├── en.pdf
 └── zh.pdf

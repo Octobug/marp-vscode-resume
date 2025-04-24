@@ -4,6 +4,7 @@
     "cli": "https://github.com/DavidAnson/markdownlint-cli2",
     "vscode": "https://github.com/DavidAnson/vscode-markdownlint"
   },
+  "commands-show-output": false,
   "line-length": false,
   "no-emphasis-as-heading": false,
   "no-inline-html": false
