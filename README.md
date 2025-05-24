@@ -23,7 +23,7 @@
     $ git clone git@github.com:Octobug/marp-vscode-resume.git
     ```
 
-2. **Open the project in VS Code**
+2. **Open the project using VS Code**
 
     ```sh
     $ code marp-vscode-resume
